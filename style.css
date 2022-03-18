@@ -17,7 +17,7 @@ html, body, p, div, img, button {
 
 .container {
   max-width: 900px;
-  margin: 0 auto;
+  margin: 0 auto 50px;
 }
 
 .gallery {
